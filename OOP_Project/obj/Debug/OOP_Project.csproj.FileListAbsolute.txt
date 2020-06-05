@@ -1,0 +1,6 @@
+C:\Users\Rati\source\repos\OOP_Project\OOP_Project\bin\Debug\OOP_Project.dll
+C:\Users\Rati\source\repos\OOP_Project\OOP_Project\bin\Debug\OOP_Project.pdb
+C:\Users\Rati\source\repos\OOP_Project\OOP_Project\obj\Debug\OOP_Project.csprojAssemblyReference.cache
+C:\Users\Rati\source\repos\OOP_Project\OOP_Project\obj\Debug\OOP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rati\source\repos\OOP_Project\OOP_Project\obj\Debug\OOP_Project.dll
+C:\Users\Rati\source\repos\OOP_Project\OOP_Project\obj\Debug\OOP_Project.pdb
