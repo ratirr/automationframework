@@ -27,23 +27,23 @@ namespace Tests
 
         }
 
-        //[TestMethod]
-        //public void NullServiceCode()
-        //{
-        //    //Arrange
-        //    var sc1 = new ServiceCodes
-        //    {
-        //        ServiceCode = null
-        //    };
+        [TestMethod]
+        public void NullServiceCode()
+        {
+            //Arrange
+            var sc1 = new ServiceCodes
+            {
+                ServiceCode = null
+            };
 
-        //    var expected = Exception("Cannot be null");
+            var expected = "Exception";
 
-        //    //Act
-        //    var actual = sc1.ServiceCode;
+            //Act
+            var actual = sc1.ServiceCode;
 
-        //    //Assert
-        //    Assert.AreEqual(expected, actual);
-        //}
+            //Assert
+            Assert.AreEqual(expected, actual);
+        }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentNullException))]
